@@ -50,7 +50,7 @@ The following animation demonstrates the application functionality:
 >
 > * A repository that only includes starter code
 
-This Challenge is graded based on the following criteria: 
+This Challenge is graded based on the following crP: 
 
 ### Technical Acceptance Criteria: 40%
 
